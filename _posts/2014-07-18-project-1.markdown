@@ -1,0 +1,15 @@
+---
+title: 海林蜂巢
+subtitle: 温控器物联网
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: 2014 至今
+client: Start Bootstrap
+category: 物联网平台，设备，App
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---
